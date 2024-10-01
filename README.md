@@ -1,4 +1,3 @@
----
 ### **Ingredients to Avoid**
 
 **Key_Words:**
@@ -22,6 +21,6 @@
 
 - **-itol**  
   *(e.g., sorbitol, xylitol, mannitol, erythritol)*
----
+
 
 
