@@ -1,7 +1,7 @@
 ---
 ### **Ingredients to Avoid**
 
-**Key Words (Alphabetized):**
+**Key Words:**
 
 - **Flour**
 - **Fruit Juice Concentrate**
